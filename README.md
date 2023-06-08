@@ -1,6 +1,5 @@
 # Booki
-##   Online booking site for accommodation and activities 🏘
-<br>
+### Online booking site for accommodation and activities 🏘<br>
 _framework : OpenClassrooms training_ 
 <br><br>
 🕶 Take a look : https://booki-tau.vercel.app
