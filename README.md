@@ -4,6 +4,6 @@ _framework : OpenClassrooms training_
 <br><br>
 🕶 Take a look : https://booki-tau.vercel.app
 <br>
-🌌 HTML/CSS only
+💻 HTML/CSS only
 <br><br>
 ![alt text](/images/Booki-MockUp.png)
